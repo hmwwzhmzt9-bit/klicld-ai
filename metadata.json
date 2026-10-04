@@ -1,0 +1,6 @@
+{
+  "name": "KLICLD AI - 4K Video & Image Upscaler",
+  "description": "أداة متطورة لرفع جودة الفيديو والصور إلى 4K و 2K مع نظام التحقق من قنوات ديسكورد وتيك توك",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
